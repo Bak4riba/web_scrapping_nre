@@ -1,18 +1,33 @@
-async function carregar() {
-  try {
-    console.log('Iniciando carregamento...');
-    const res = await fetch('dados.json');
-    console.log('Status:', res.status);
-    const data = await res.json();
-    console.log('Dados recebidos:', data.total_registros, 'registros');
-    processar(data);
-  } catch (e) {
-    console.error('Erro:', e);
-    document.getElementById('main').innerHTML = `
-      <div class="empty">
-        <div class="empty-icon">⚠️</div>
-        <h3>Erro ao carregar dados</h3>
-        <p>${e.message}</p>
-      </div>`;
-  }
-}
+name: Atualizar dados PSS
+
+on:
+  schedule:
+    - cron: '0 9,15 * * *'
+  workflow_dispatch:
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependências
+        run: pip install requests beautifulsoup4 pdfplumber
+
+      - name: Rodar scraping
+        run: python main.py
+
+      - name: Commit e push do dados.json
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add dados.json
+          git diff --cached --quiet || git commit -m "Atualiza dados.json $(date +'%d/%m/%Y %H:%M')"
+          git push
