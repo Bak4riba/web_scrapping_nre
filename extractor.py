@@ -173,9 +173,24 @@ def extrair_data(pdf_path):
         return match.group(1) if match else "Data não encontrada"
 
 
+def extrair_horario(pdf_path):
+    """Extrai o horário da distribuição do PDF."""
+    with pdfplumber.open(pdf_path) as pdf:
+        for page in pdf.pages:
+            tables = page.extract_tables()
+            for table in tables:
+                for row in table:
+                    for cell in row:
+                        match = re.search(r'(\d{1,2}h\d{0,2}(?:min)?)', str(cell or ''), re.IGNORECASE)
+                        if match:
+                            return match.group(1)
+    return "Horário não encontrado"
+
+
 def processar_pdf(pdf_path):
     """Processa um PDF completo e retorna os dados estruturados."""
     data = extrair_data(pdf_path)
+    horario = extrair_horario(pdf_path)
     registros = []
 
     with pdfplumber.open(pdf_path) as pdf:
@@ -187,6 +202,7 @@ def processar_pdf(pdf_path):
 
     return {
         "data":            data,
+        "horario":         horario,
         "arquivo":         pdf_path,
         "total_registros": len(registros),
         "distribuicao":    registros,

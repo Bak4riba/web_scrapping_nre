@@ -352,6 +352,17 @@
       color: var(--accent);
     }
 
+    .card-horario {
+      margin-bottom: 12px;
+      font-family: 'DM Mono', monospace;
+      font-size: 12px;
+      color: var(--accent);
+      background: rgba(79,255,176,0.06);
+      border: 1px solid rgba(79,255,176,0.15);
+      border-radius: 4px;
+      padding: 5px 10px;
+    }
+
     .card-obs {
       margin-top: 12px;
       font-family: 'DM Mono', monospace;
@@ -582,7 +593,7 @@
       return `
         <div class="date-group" style="animation-delay: ${i * 60}ms">
           <div class="date-header">
-            <span class="date-label">📅 MArcado para dia: ${data}</span>
+            <span class="date-label">📅 ${data}</span>
             <div class="date-line"></div>
             <span class="date-count">${regs.length} registro${regs.length !== 1 ? 's' : ''}</span>
           </div>
@@ -621,6 +632,7 @@
         <div class="card-disciplina">${r.disciplina || '—'}</div>
         <div class="card-escola">${r.escola || '—'}</div>
         <div class="card-municipio">${r.municipio || ''}</div>
+        ${r.horario ? `<div class="card-horario">🕐 Distribuição: ${r.horario}</div>` : ''}
         <div class="card-turnos">
           ${blocoTurnos('Ensino Fundamental', f)}
           ${blocoTurnos('Ensino Médio', m)}

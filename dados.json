@@ -4,7 +4,8 @@
   "pdfs": [
     {
       "data": "13/02/2026",
-      "arquivo": "pdfs/borbacronograma distribuicao de aulas telboba_13_02_2666.pdfborba 13_02.pdf",
+      "horario": "15h",
+      "arquivo": "pdfs\\borbacronograma distribuicao de aulas telboba_13_02_2666.pdfborba 13_02.pdf",
       "total_registros": 6,
       "distribuicao": [
         {
@@ -107,7 +108,8 @@
     },
     {
       "data": "04/03/2026",
-      "arquivo": "pdfs/cronogramacronograma distribuicao de aulas telboba_04_03_2026.pdftel borba04_03.pdf",
+      "horario": "16h",
+      "arquivo": "pdfs\\cronogramacronograma distribuicao de aulas telboba_04_03_2026.pdftel borba04_03.pdf",
       "total_registros": 9,
       "distribuicao": [
         {
@@ -258,7 +260,8 @@
     },
     {
       "data": "02/03/2026",
-      "arquivo": "pdfs/telborbacronograma distribuicao de aulas telboba_03_03_2026.pdftb 03_03.pdf",
+      "horario": "15h",
+      "arquivo": "pdfs\\telborbacronograma distribuicao de aulas telboba_03_03_2026.pdftb 03_03.pdf",
       "total_registros": 11,
       "distribuicao": [
         {
@@ -441,7 +444,8 @@
     },
     {
       "data": "02/03/2026",
-      "arquivo": "pdfs/telborbacronograma distribuicao de aulas telboba_27_02_2026.pdfDistribuição de Aulas Telêmaco Borba - 02_03_2026.pdf",
+      "horario": "11h",
+      "arquivo": "pdfs\\telborbacronograma distribuicao de aulas telboba_27_02_2026.pdfDistribuição de Aulas Telêmaco Borba - 02_03_2026.pdf",
       "total_registros": 5,
       "distribuicao": [
         {
@@ -543,7 +547,8 @@
         "N": ""
       },
       "observacao": "",
-      "data_pdf": "13/02/2026"
+      "data_pdf": "13/02/2026",
+      "horario": "15h"
     },
     {
       "disciplina": "RECOMPOSIÇÃO LÍNGUA PORTUGUESA",
@@ -560,7 +565,8 @@
         "N": ""
       },
       "observacao": "",
-      "data_pdf": "13/02/2026"
+      "data_pdf": "13/02/2026",
+      "horario": "15h"
     },
     {
       "disciplina": "RECOMPOSIÇÃO MATEMÁTICA",
@@ -577,7 +583,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "04/03/2026"
+      "data_pdf": "04/03/2026",
+      "horario": "16h"
     },
     {
       "disciplina": "EDUCAÇÃO FÍSICA",
@@ -594,7 +601,8 @@
         "N": ""
       },
       "observacao": "",
-      "data_pdf": "13/02/2026"
+      "data_pdf": "13/02/2026",
+      "horario": "15h"
     },
     {
       "disciplina": "EDUCAÇÃO FÍSICA",
@@ -611,7 +619,8 @@
         "N": ""
       },
       "observacao": "",
-      "data_pdf": "13/02/2026"
+      "data_pdf": "13/02/2026",
+      "horario": "15h"
     },
     {
       "disciplina": "ARTE",
@@ -628,7 +637,8 @@
         "N": ""
       },
       "observacao": "",
-      "data_pdf": "13/02/2026"
+      "data_pdf": "13/02/2026",
+      "horario": "15h"
     },
     {
       "disciplina": "RECOMPOSIÇÃO MATEMÁTICA",
@@ -645,7 +655,8 @@
         "N": ""
       },
       "observacao": "subst",
-      "data_pdf": "04/03/2026"
+      "data_pdf": "04/03/2026",
+      "horario": "16h"
     },
     {
       "disciplina": "RECOMPOSIÇÃO MATEMÁTICA",
@@ -662,7 +673,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "04/03/2026"
+      "data_pdf": "04/03/2026",
+      "horario": "16h"
     },
     {
       "disciplina": "RECOMPOSIÇÃO MATEMÁTICA",
@@ -679,7 +691,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "04/03/2026"
+      "data_pdf": "04/03/2026",
+      "horario": "16h"
     },
     {
       "disciplina": "EDUCAÇÃO FÍSICA",
@@ -696,7 +709,8 @@
         "N": ""
       },
       "observacao": "",
-      "data_pdf": "04/03/2026"
+      "data_pdf": "04/03/2026",
+      "horario": "16h"
     },
     {
       "disciplina": "LÍNGUA PORTUGUESA",
@@ -713,7 +727,8 @@
         "N": ""
       },
       "observacao": "subst",
-      "data_pdf": "04/03/2026"
+      "data_pdf": "04/03/2026",
+      "horario": "16h"
     },
     {
       "disciplina": "LÍNGUA PORTUGUESA",
@@ -730,7 +745,8 @@
         "N": ""
       },
       "observacao": "subst.",
-      "data_pdf": "04/03/2026"
+      "data_pdf": "04/03/2026",
+      "horario": "16h"
     },
     {
       "disciplina": "INGLÊS",
@@ -747,7 +763,8 @@
         "N": ""
       },
       "observacao": "subst.",
-      "data_pdf": "04/03/2026"
+      "data_pdf": "04/03/2026",
+      "horario": "16h"
     },
     {
       "disciplina": "INGLÊS",
@@ -764,7 +781,8 @@
         "N": ""
       },
       "observacao": "subst.",
-      "data_pdf": "04/03/2026"
+      "data_pdf": "04/03/2026",
+      "horario": "16h"
     },
     {
       "disciplina": "MATEMÁTICA",
@@ -781,7 +799,8 @@
         "N": ""
       },
       "observacao": "",
-      "data_pdf": "02/03/2026"
+      "data_pdf": "02/03/2026",
+      "horario": "15h"
     },
     {
       "disciplina": "EDUCAÇÃO FINANCEIRA",
@@ -798,7 +817,8 @@
         "N": ""
       },
       "observacao": "",
-      "data_pdf": "02/03/2026"
+      "data_pdf": "02/03/2026",
+      "horario": "15h"
     },
     {
       "disciplina": "MATEMÁTICA",
@@ -815,7 +835,8 @@
         "N": ""
       },
       "observacao": "",
-      "data_pdf": "02/03/2026"
+      "data_pdf": "02/03/2026",
+      "horario": "15h"
     },
     {
       "disciplina": "EDUCAÇÃO FINANCEIRA",
@@ -832,7 +853,8 @@
         "N": ""
       },
       "observacao": "",
-      "data_pdf": "02/03/2026"
+      "data_pdf": "02/03/2026",
+      "horario": "15h"
     },
     {
       "disciplina": "QUÍMICA",
@@ -849,7 +871,8 @@
         "N": ""
       },
       "observacao": "",
-      "data_pdf": "02/03/2026"
+      "data_pdf": "02/03/2026",
+      "horario": "15h"
     },
     {
       "disciplina": "INGLÊS",
@@ -866,7 +889,8 @@
         "N": ""
       },
       "observacao": "subst.",
-      "data_pdf": "02/03/2026"
+      "data_pdf": "02/03/2026",
+      "horario": "15h"
     },
     {
       "disciplina": "EDUCAÇÃO DIGITAL E COMPUTAÇAO: PROGRAMAÇÃO E IA",
@@ -883,7 +907,8 @@
         "N": ""
       },
       "observacao": "",
-      "data_pdf": "02/03/2026"
+      "data_pdf": "02/03/2026",
+      "horario": "15h"
     }
   ]
 }

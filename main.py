@@ -135,7 +135,7 @@ def parse_data(s):
 todos_flat = []
 for pdf in todos_registros:
     for reg in pdf["distribuicao"]:
-        todos_flat.append({ **reg, "data_pdf": pdf["data"] })
+        todos_flat.append({ **reg, "data_pdf": pdf["data"], "horario": pdf.get("horario", "") })
 
 # Para cada chave escola+disciplina, mantém só o mais recente
 mais_recentes = {}
