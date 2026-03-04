@@ -1,11 +1,11 @@
 {
-  "total_pdfs": 4,
-  "total_registros": 21,
+  "total_pdfs": 5,
+  "total_registros": 22,
   "pdfs": [
     {
       "data": "13/02/2026",
       "horario": "15h",
-      "arquivo": "pdfs/borbacronograma distribuicao de aulas telboba_13_02_2666.pdfborba 13_02.pdf",
+      "arquivo": "pdfs\\borbacronograma distribuicao de aulas telboba_13_02_2666.pdfborba 13_02.pdf",
       "total_registros": 6,
       "distribuicao": [
         {
@@ -109,7 +109,7 @@
     {
       "data": "04/03/2026",
       "horario": "16h",
-      "arquivo": "pdfs/cronogramacronograma distribuicao de aulas telboba_04_03_2026.pdftel borba04_03.pdf",
+      "arquivo": "pdfs\\cronogramacronograma distribuicao de aulas telboba_04_03_2026.pdftel borba04_03.pdf",
       "total_registros": 9,
       "distribuicao": [
         {
@@ -259,9 +259,113 @@
       ]
     },
     {
+      "data": "04/03/2026",
+      "horario": "16h",
+      "arquivo": "pdfs\\telbobacronograma distribuicao de aulas _04_03_202666.pdftb 04_03.pdf",
+      "total_registros": 6,
+      "distribuicao": [
+        {
+          "disciplina": "EDUCAÇÃO FÍSICA",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "C. E. C. M. Custódio Netto",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "2",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        },
+        {
+          "disciplina": "RECOMPOSIÇÃO LÍNGUA PORTUGUESA",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "E. E. BELA VISTA",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "4",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "subst."
+        },
+        {
+          "disciplina": "LÍNGUA PORTUGUESA",
+          "municipio": "TELÊMACOBORBA",
+          "escola": "E. E. BELA VISTA",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "11",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "subst."
+        },
+        {
+          "disciplina": "LÍNGUA PORTUGUESA",
+          "municipio": "TELÊMACOBORBA",
+          "escola": "CEEBJA",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": "9"
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "subst."
+        },
+        {
+          "disciplina": "INGLÊS",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "CEEBJA",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": "6"
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "subst."
+        },
+        {
+          "disciplina": "INGLÊS",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "C. E. PRESIDENTE VARGAS",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "6",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "subst."
+        }
+      ]
+    },
+    {
       "data": "02/03/2026",
       "horario": "15h",
-      "arquivo": "pdfs/telborbacronograma distribuicao de aulas telboba_03_03_2026.pdftb 03_03.pdf",
+      "arquivo": "pdfs\\telborbacronograma distribuicao de aulas telboba_03_03_2026.pdftb 03_03.pdf",
       "total_registros": 11,
       "distribuicao": [
         {
@@ -445,7 +549,7 @@
     {
       "data": "02/03/2026",
       "horario": "11h",
-      "arquivo": "pdfs/telborbacronograma distribuicao de aulas telboba_27_02_2026.pdfDistribuição de Aulas Telêmaco Borba - 02_03_2026.pdf",
+      "arquivo": "pdfs\\telborbacronograma distribuicao de aulas telboba_27_02_2026.pdfDistribuição de Aulas Telêmaco Borba - 02_03_2026.pdf",
       "total_registros": 5,
       "distribuicao": [
         {
@@ -777,6 +881,24 @@
       },
       "ensino_medio": {
         "M": "6",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "subst.",
+      "data_pdf": "04/03/2026",
+      "horario": "16h"
+    },
+    {
+      "disciplina": "RECOMPOSIÇÃO LÍNGUA PORTUGUESA",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "E. E. BELA VISTA",
+      "ensino_fundamental": {
+        "M": "",
+        "T": "4",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "",
         "T": "",
         "N": ""
       },
