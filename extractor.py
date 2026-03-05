@@ -13,8 +13,21 @@ def eh_tabela_de_aulas(table):
     """Verifica se uma tabela é de distribuição de aulas."""
     if not table or len(table) < 4:
         return False
-    turnos = [c for c in table[2] if c in ("M", "T", "N")]
-    return len(turnos) >= 3
+    # Verifica nas primeiras 4 linhas — algumas tabelas têm linha extra vazia
+    for row in table[1:4]:
+        turnos = [c for c in row if c in ("M", "T", "N")]
+        if len(turnos) >= 3:
+            return True
+    return False
+
+
+def linha_dos_turnos(table):
+    """Retorna o índice da linha que contém M, T, N."""
+    for i, row in enumerate(table[1:4], start=1):
+        turnos = [c for c in row if c in ("M", "T", "N")]
+        if len(turnos) >= 3:
+            return i
+    return 2  # fallback
 
 
 def limpar_aulas(valor):
@@ -62,7 +75,8 @@ def extrair_aulas_da_tabela(table):
     registros = []
     linha0 = table[0]
     linha1 = table[1]
-    linha2 = table[2]
+    idx_turnos = linha_dos_turnos(table)
+    linha2 = table[idx_turnos]
 
     municipio = limpar_texto(linha0[0]) if linha0[0] else ""
 
@@ -102,8 +116,8 @@ def extrair_aulas_da_tabela(table):
             grupos[disc] = []
         grupos[disc].append(bloco)
 
-    # Processa cada linha de escola
-    for row in table[3:]:
+    # Processa cada linha de escola (começa após a linha dos turnos)
+    for row in table[idx_turnos + 1:]:
         if not row or not row[0]:
             continue
 
