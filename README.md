@@ -8,6 +8,7 @@ O sistema realiza a coleta periódica de PDFs disponibilizados para professores 
 
 O projeto foi criado para facilitar o acesso às informações publicadas no site do NRE, automatizando a coleta e organização dos dados para professores que participam do processo seletivo PSS.
 
+**Link para Acesso:** https://bak4riba.github.io/web_scrapping_nre/
 ## Possíveis melhorias futuras
 
 - API para consulta dos dados
