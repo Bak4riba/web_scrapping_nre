@@ -64,12 +64,11 @@ Fluxo da automação:
 - Automação com tarefas agendadas
 
 ## Estrutura do Projeto
-web_scrapping_nre
-│
-├── scraper.py
-├── parser.py
-├── data.json
-├── site/
-└── README.md
+**ws_pss**
+- scraper.py
+- parser.py
+- data.json
+- site/
+- README.md
 
 
