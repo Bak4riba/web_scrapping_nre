@@ -1,124 +1,75 @@
-## Web Scrapping site PSS
+# NRE Data Automation - Web Scraping
 
-Bom, nesse projeto desenvolvi exatamente para resolver um problema pessoal meu: **Que era precisar fazer download de todos os PDFs disponíveis no site do NRE da minha cidade**
-Esses pdfs servem para nós professores PSS sabermos quais as aulas estão indo para a distribuição.
+Automação para coleta, processamento e publicação de dados do site do Núcleo Regional de Educação (NRE) de Telêmaco Borba.
 
-Nele eu faço um web scrapping dos pdfs, analiso os pdfs mais recentes e então pretendo publicar em um site estático para facilitar a vida de todos os professores da minha cidade
-# 🏫 PSS Aulas — NRE Telêmaco Borba
+O sistema realiza a coleta periódica de PDFs disponibilizados para professores PSS, extrai as informações relevantes e disponibiliza os dados em formato JSON para consumo por uma aplicação web.
 
-**Automação completa para coleta, processamento e publicação de dados educacionais públicos.**
+## Objetivo
 
-Professores PSS do município de Telêmaco Borba (PR) precisam acompanhar diariamente PDFs publicados pelo Núcleo Regional de Educação para saber quais aulas estão disponíveis para distribuição. O processo manual exige acessar o site, baixar o arquivo, abrir o PDF e procurar a disciplina de interesse — todo dia.
+O projeto foi criado para facilitar o acesso às informações publicadas no site do NRE, automatizando a coleta e organização dos dados para professores que participam do processo seletivo PSS.
 
-Este projeto elimina esse processo com um pipeline automatizado de ponta a ponta: do scraping ao site publicado.
+**Link para Acesso:** https://bak4riba.github.io/web_scrapping_nre/
+## Possíveis melhorias futuras
 
-🌐 **[Acesse o site](https://bak4riba.github.io/ws_pss)**
+- API para consulta dos dados
+- Dashboard para visualização das aulas
+- Deploy automatizado do pipeline
+- Notificação quando novas aulas forem publicadas
 
----
+## Arquitetura do Projeto
 
-## O que o sistema faz
+Site NRE  
+↓  
+Web Scraping (Python)  
+↓  
+Download de PDFs  
+↓  
+Extração e processamento dos dados  
+↓  
+Geração de JSON  
+↓  
+Commit automático no GitHub  
+↓  
+Site consome os dados atualizados
 
-1. **Coleta** — acessa o site do NRE e baixa apenas os PDFs publicados nos últimos 3 dias
-2. **Extrai** — lê as tabelas de distribuição de aulas dentro dos PDFs com `pdfplumber`
-3. **Processa** — deduplica registros, preserva anotações especiais e normaliza os dados
-4. **Publica** — gera um `dados.json` e atualiza o site automaticamente via Git
+## Funcionalidades
 
-Tudo isso roda no computador local de forma agendada, sem depender de servidores pagos.
+- Coleta automática de PDFs publicados no site do NRE
+- Extração de informações sobre aulas disponíveis
+- Conversão e estruturação dos dados em JSON
+- Detecção de alterações nos dados
+- Atualização automática do repositório apenas quando há mudanças
+- Integração com site estático que consome os dados
 
----
+## Automação
 
-## Stack utilizada
+O script é executado automaticamente a cada **2 horas** através de tarefas agendadas no sistema operacional.
 
-| Camada | Tecnologia |
-|--------|-----------|
-| Scraping | Python · `requests` · `BeautifulSoup` |
-| Extração de PDF | `pdfplumber` |
-| Dados | JSON |
-| Frontend | HTML · CSS · JavaScript puro |
-| Hospedagem | GitHub Pages |
-| Automação | Windows Task Scheduler · `.bat` |
+Fluxo da automação:
 
----
+1. Executa o web scraping
+2. Baixa e analisa os PDFs disponíveis
+3. Extrai as informações relevantes
+4. Gera um arquivo JSON atualizado
+5. Verifica se houve mudanças
+6. Caso haja alteração, realiza commit e push no GitHub
+7. O site consome automaticamente os dados atualizados
 
-## Arquitetura
+## Tecnologias Utilizadas
 
-```
-┌─────────────────────────────────────────────────┐
-│           Windows Task Scheduler                │
-│         (executa 2x ao dia, local)              │
-└────────────────────┬────────────────────────────┘
-                     │
-                     ▼
-┌─────────────────────────────────────────────────┐
-│                  main.py                        │
-│                                                 │
-│  1. POST → site do NRE (session + cookies)      │
-│  2. Filtra PDFs dos últimos 3 dias              │
-│  3. Baixa apenas arquivos novos                 │
-│  4. Extrai tabelas com extractor.py             │
-│  5. Deduplica por escola + disciplina           │
-│  6. Salva dados.json                            │
-└────────────────────┬────────────────────────────┘
-                     │
-                     ▼
-┌─────────────────────────────────────────────────┐
-│            git commit + push                    │
-│         GitHub Pages serve o site              │
-└─────────────────────────────────────────────────┘
-```
+- Python
+- Web Scraping
+- Manipulação de PDFs
+- JSON
+- Git
+- Automação com tarefas agendadas
 
----
+## Estrutura do Projeto
+**ws_pss**
+- scraper.py
+- parser.py
+- data.json
+- site/
+- README.md
 
-## Desafios técnicos resolvidos
 
-**Sessão autenticada** — o site do NRE exige uma sequência de requests POST com cookies de sessão para liberar os arquivos. Foi necessário mapear o fluxo de autenticação via DevTools do navegador.
-
-**PDFs sem estrutura padrão** — as tabelas variam entre PDFs: algumas têm duas disciplinas lado a lado, outras têm linhas extras vazias antes dos cabeçalhos, outras misturam notações especiais (`*6`, `6 subst.`) nos valores numéricos. O extrator trata cada caso individualmente.
-
-**Deduplicação temporal** — como aulas não distribuídas reaparecem no PDF do dia seguinte somadas às novas, o sistema mantém apenas o registro mais recente para cada par `escola + disciplina`, evitando contagem duplicada.
-
-**Bloqueio de IP em CI/CD** — o site do governo bloqueia requisições vindas de servidores de nuvem (GitHub Actions). A solução foi mover a execução para o ambiente local do usuário, mantendo apenas o GitHub Pages para hospedagem estática.
-
----
-
-## Estrutura do projeto
-
-```
-ws_pss/
-├── main.py          # Pipeline principal: scraping → extração → JSON
-├── extractor.py     # Parser de PDFs com lógica de normalização
-├── downloader.py    # Download dos arquivos com controle de sessão
-├── index.html       # Interface web com filtros dinâmicos
-├── atualizar.bat    # Script de automação local com push automático
-└── dados.json       # Dados gerados (atualizado automaticamente)
-```
-
----
-
-## Como rodar localmente
-
-```bash
-# Clone o repositório
-git clone https://github.com/Bak4riba/ws_pss.git
-cd ws_pss
-
-# Instale as dependências
-pip install requests beautifulsoup4 pdfplumber
-
-# Execute o pipeline
-python main.py
-
-# Visualize o site (requer Live Server ou servidor local)
-python -m http.server 8000
-# Acesse http://localhost:8000
-```
-
----
-
-## Resultado
-
-O site exibe os dados em cards organizados por data, com filtros por disciplina, escola e município. Professores conseguem verificar em segundos se há aulas disponíveis na sua área, sem precisar baixar ou abrir nenhum PDF.
-
----
-
-*Desenvolvido por Matheus — Telêmaco Borba, PR*
