@@ -1,6 +1,6 @@
 {
-  "total_pdfs": 5,
-  "total_registros": 22,
+  "total_pdfs": 6,
+  "total_registros": 23,
   "pdfs": [
     {
       "data": "13/02/2026",
@@ -467,6 +467,62 @@
       ]
     },
     {
+      "data": "10/03/2026",
+      "horario": "11h",
+      "arquivo": "pdfs\\cronogramadistribuicaodeaulastelboba _10_03_2026.pdfTB 10_03.pdf",
+      "total_registros": 3,
+      "distribuicao": [
+        {
+          "disciplina": "RECOMPOSIÇÃO MATEMÁTICA",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "C.E. GREGÓRIO TEIXEIRA",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "EDUCAÇÃO DIGITAL E COMPUTAÇAO: PROGRAMAÇÃO E IA",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "CECM Jardim Alegre",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "1",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        },
+        {
+          "disciplina": "LÍNGUA PORTUGUESA",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "C. E. PROFª MARIA AP. MILITÃO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "13",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "subst."
+        }
+      ]
+    },
+    {
       "data": "04/03/2026",
       "horario": "16h",
       "arquivo": "pdfs\\telbobacronograma distribuicao de aulas _04_03_202666.pdftb 04_03.pdf",
@@ -661,8 +717,8 @@
       "municipio": "TELÊMACO BORBA",
       "escola": "C.E. GREGÓRIO TEIXEIRA",
       "ensino_fundamental": {
-        "M": "6",
-        "T": "6",
+        "M": "",
+        "T": "",
         "N": ""
       },
       "ensino_medio": {
@@ -671,8 +727,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "09/03/2026",
-      "horario": "9h"
+      "data_pdf": "10/03/2026",
+      "horario": "11h"
     },
     {
       "disciplina": "EDUCAÇÃO FÍSICA",
@@ -833,8 +889,8 @@
         "N": ""
       },
       "observacao": "",
-      "data_pdf": "09/03/2026",
-      "horario": "9h"
+      "data_pdf": "10/03/2026",
+      "horario": "11h"
     },
     {
       "disciplina": "RECOMPOSIÇÃO MATEMÁTICA",
@@ -943,6 +999,24 @@
       "observacao": "",
       "data_pdf": "09/03/2026",
       "horario": "9h"
+    },
+    {
+      "disciplina": "LÍNGUA PORTUGUESA",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "C. E. PROFª MARIA AP. MILITÃO",
+      "ensino_fundamental": {
+        "M": "",
+        "T": "13",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "subst.",
+      "data_pdf": "10/03/2026",
+      "horario": "11h"
     },
     {
       "disciplina": "",
