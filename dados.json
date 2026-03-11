@@ -1,6 +1,6 @@
 {
-  "total_pdfs": 3,
-  "total_registros": 20,
+  "total_pdfs": 4,
+  "total_registros": 22,
   "pdfs": [
     {
       "data": "13/02/2026",
@@ -393,6 +393,78 @@
           "observacao": "subst."
         }
       ]
+    },
+    {
+      "data": "12/03/2026",
+      "horario": "15h30min",
+      "arquivo": "pdfs\\cronogramadistribuicaodeaulastelboba _12_03_2026.pdfTB 12_03.pdf",
+      "total_registros": 4,
+      "distribuicao": [
+        {
+          "disciplina": "RECOMPOSIÇÃO MATEMÁTICA",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "4",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "BIOLOGIA",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "C. E. JARDIM ALEGRE",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "8",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        },
+        {
+          "disciplina": "BIOLOGIA",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "2",
+            "T": "",
+            "N": "5"
+          },
+          "observacao": ""
+        },
+        {
+          "disciplina": "EDUCAÇÃO DIGITAL E COMPUTAÇAO: PROGRAMAÇÃO E IA",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "CECM Jardim Alegre",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "1",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        }
+      ]
     }
   ],
   "distribuicao": [
@@ -546,7 +618,7 @@
       "escola": "C. E. SÃO FRANCISCO",
       "ensino_fundamental": {
         "M": "",
-        "T": "24",
+        "T": "4",
         "N": ""
       },
       "ensino_medio": {
@@ -555,8 +627,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "09/03/2026",
-      "horario": "9h"
+      "data_pdf": "12/03/2026",
+      "horario": "15h30min"
     },
     {
       "disciplina": "EDUCAÇÃO DIGITAL E COMPUTAÇAO: PROGRAMAÇÃO E IA",
@@ -573,8 +645,8 @@
         "N": ""
       },
       "observacao": "",
-      "data_pdf": "10/03/2026",
-      "horario": "11h"
+      "data_pdf": "12/03/2026",
+      "horario": "15h30min"
     },
     {
       "disciplina": "LÍNGUA PORTUGUESA",
@@ -755,6 +827,42 @@
       "observacao": "subst.",
       "data_pdf": "10/03/2026",
       "horario": "11h"
+    },
+    {
+      "disciplina": "BIOLOGIA",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "C. E. JARDIM ALEGRE",
+      "ensino_fundamental": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "8",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "",
+      "data_pdf": "12/03/2026",
+      "horario": "15h30min"
+    },
+    {
+      "disciplina": "BIOLOGIA",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "C. E. WOLFF KLABIN",
+      "ensino_fundamental": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "2",
+        "T": "",
+        "N": "5"
+      },
+      "observacao": "",
+      "data_pdf": "12/03/2026",
+      "horario": "15h30min"
     }
   ]
 }
