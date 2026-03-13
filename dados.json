@@ -1,6 +1,6 @@
 {
-  "total_pdfs": 5,
-  "total_registros": 22,
+  "total_pdfs": 6,
+  "total_registros": 23,
   "pdfs": [
     {
       "data": "13/02/2026",
@@ -537,6 +537,46 @@
           "observacao": ""
         }
       ]
+    },
+    {
+      "data": "16/03/2026",
+      "horario": "9h",
+      "arquivo": "pdfs\\cronogramadistribuicaodeaulastelboba _16_03_2026.pdfTB 16_03.pdf",
+      "total_registros": 2,
+      "distribuicao": [
+        {
+          "disciplina": "RECOMPOSIÇÃO MATEMÁTICA",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "4",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "EDUCAÇÃO ESPECIAL",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "20",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        }
+      ]
     }
   ],
   "distribuicao": [
@@ -681,8 +721,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "12/03/2026",
-      "horario": "15h30min"
+      "data_pdf": "16/03/2026",
+      "horario": "9h"
     },
     {
       "disciplina": "BIOLOGIA",
@@ -935,6 +975,24 @@
       "observacao": "subst.",
       "data_pdf": "10/03/2026",
       "horario": "11h"
+    },
+    {
+      "disciplina": "EDUCAÇÃO ESPECIAL",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "C. E. WOLFF KLABIN",
+      "ensino_fundamental": {
+        "M": "",
+        "T": "20",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "",
+      "data_pdf": "16/03/2026",
+      "horario": "9h"
     }
   ]
 }
