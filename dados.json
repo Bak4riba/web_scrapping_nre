@@ -1,6 +1,6 @@
 {
-  "total_pdfs": 9,
-  "total_registros": 33,
+  "total_pdfs": 10,
+  "total_registros": 36,
   "pdfs": [
     {
       "data": "13/02/2026",
@@ -187,6 +187,78 @@
           },
           "ensino_medio": {
             "M": "1",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        }
+      ]
+    },
+    {
+      "data": "20/03/2026",
+      "horario": "16h",
+      "arquivo": "pdfs\\cronograma distribuicao de aulas telboba_20_03_2026.pdfTB 20_03.pdf",
+      "total_registros": 4,
+      "distribuicao": [
+        {
+          "disciplina": "CIÊNCIAS",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "C. E. PROF. CUSTÓDIO NETTO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "18",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "sub"
+        },
+        {
+          "disciplina": "BIOLOGIA",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "C. E. PROF. CUSTÓDIO NETTO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "6",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "sub"
+        },
+        {
+          "disciplina": "RECOMPOSIÇÃO MATEMÁTICA",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "4(2ª,3ª)",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "PEDAGOGO",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "20",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
             "T": "",
             "N": ""
           },
@@ -960,7 +1032,7 @@
       "escola": "C. E. SÃO FRANCISCO",
       "ensino_fundamental": {
         "M": "",
-        "T": "4",
+        "T": "4(2ª,3ª)",
         "N": ""
       },
       "ensino_medio": {
@@ -969,7 +1041,7 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "19/03/2026",
+      "data_pdf": "20/03/2026",
       "horario": "16h"
     },
     {
@@ -1025,6 +1097,60 @@
       "observacao": "",
       "data_pdf": "12/03/2026",
       "horario": "15h30min"
+    },
+    {
+      "disciplina": "CIÊNCIAS",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "C. E. PROF. CUSTÓDIO NETTO",
+      "ensino_fundamental": {
+        "M": "",
+        "T": "18",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "sub",
+      "data_pdf": "20/03/2026",
+      "horario": "16h"
+    },
+    {
+      "disciplina": "BIOLOGIA",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "C. E. PROF. CUSTÓDIO NETTO",
+      "ensino_fundamental": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "6",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "sub",
+      "data_pdf": "20/03/2026",
+      "horario": "16h"
+    },
+    {
+      "disciplina": "PEDAGOGO",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "C. E. WOLFF KLABIN",
+      "ensino_fundamental": {
+        "M": "20",
+        "T": "",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "",
+      "data_pdf": "20/03/2026",
+      "horario": "16h"
     },
     {
       "disciplina": "RECOMPOSIÇÃO MATEMÁTICA",
