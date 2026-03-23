@@ -1,5 +1,5 @@
 {
-  "total_pdfs": 11,
+  "total_pdfs": 12,
   "total_registros": 38,
   "pdfs": [
     {
@@ -969,6 +969,46 @@
           "observacao": "subst."
         }
       ]
+    },
+    {
+      "data": "24/03/2026",
+      "horario": "13h30min",
+      "arquivo": "pdfs\\tbcronogramadistribuicaodeaulastelboba_24_03_20266.pdfTB 24_03.pdf",
+      "total_registros": 2,
+      "distribuicao": [
+        {
+          "disciplina": "RECOMPOSIÇÃO MATEMÁTICA",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "4",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "EDUCAÇÃO ESPECIAL",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "CECM SÃO PEDRO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "50",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        }
+      ]
     }
   ],
   "distribuicao": [
@@ -1113,8 +1153,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "23/03/2026",
-      "horario": "9h"
+      "data_pdf": "24/03/2026",
+      "horario": "13h30min"
     },
     {
       "disciplina": "BIOLOGIA",
@@ -1373,8 +1413,8 @@
       "municipio": "TELÊMACO BORBA",
       "escola": "CECM SÃO PEDRO",
       "ensino_fundamental": {
-        "M": "25",
-        "T": "",
+        "M": "",
+        "T": "50",
         "N": ""
       },
       "ensino_medio": {
@@ -1383,8 +1423,8 @@
         "N": ""
       },
       "observacao": "",
-      "data_pdf": "09/03/2026",
-      "horario": "9h"
+      "data_pdf": "24/03/2026",
+      "horario": "13h30min"
     },
     {
       "disciplina": "EDUCAÇÃO ESPECIAL",
