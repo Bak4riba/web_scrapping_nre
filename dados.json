@@ -1,6 +1,6 @@
 {
-  "total_pdfs": 13,
-  "total_registros": 52,
+  "total_pdfs": 15,
+  "total_registros": 56,
   "pdfs": [
     {
       "data": "13/02/2026",
@@ -899,6 +899,326 @@
       ]
     },
     {
+      "data": "05/05/2026",
+      "horario": "13h30min",
+      "arquivo": "pdfs\\cronogramadistribuicaodeaulastelboba_05_05_2026.pdfTB 05_05_2026.pdf",
+      "total_registros": 11,
+      "distribuicao": [
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "CECM PRESIDENTE VARGAS",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "08",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "CECM PRESIDENTE VARGAS",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "16",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "4(2ª,3ª)",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "MATEMÁTICA",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "CECM Dr. MARCELINO NOGUEIRA",
+          "ensino_fundamental": {
+            "M": "4",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        },
+        {
+          "disciplina": "SAREH ATENDIMENTO ESPECIALIZADO",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "CECM Dr. MARCELINO NOGUEIRA",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "3",
+            "N": ""
+          },
+          "observacao": ""
+        },
+        {
+          "disciplina": "EDUCAÇÃO ESPECIAL",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "C.E. GREGÓRIO TEIXEIRA",
+          "ensino_fundamental": {
+            "M": "20",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        },
+        {
+          "disciplina": "EDUCAÇÃO ESPECIAL",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "CECM Dr. MARCELINO NOGUEIRA",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "25",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        },
+        {
+          "disciplina": "EDUCAÇÃO ESPECIAL",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "30",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "Integral"
+        }
+      ]
+    },
+    {
+      "data": "06/05/2026",
+      "horario": "14h30min",
+      "arquivo": "pdfs\\cronogramadistribuicaodeaulastelboba_06_05_2026.pdfTB 06_05.pdf",
+      "total_registros": 8,
+      "distribuicao": [
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "CECM PRESIDENTE VARGAS",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "08",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "CECM PRESIDENTE VARGAS",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "16",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "4(2ª,3ª)",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "EDUCAÇÃO ESPECIAL",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "C.E. GREGÓRIO TEIXEIRA",
+          "ensino_fundamental": {
+            "M": "20",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        },
+        {
+          "disciplina": "EDUCAÇÃO ESPECIAL",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "30",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "Integral"
+        }
+      ]
+    },
+    {
       "data": "24/04/2026",
       "horario": "15h30min",
       "arquivo": "pdfs\\cronogramadistribuicaodeaulastelboba_24_04_20266.pdfTBorba 24_04.pdf",
@@ -1465,8 +1785,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "30/04/2026",
-      "horario": "13h30min"
+      "data_pdf": "06/05/2026",
+      "horario": "14h30min"
     },
     {
       "disciplina": "Ensino Médio",
@@ -1483,8 +1803,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "30/04/2026",
-      "horario": "13h30min"
+      "data_pdf": "06/05/2026",
+      "horario": "14h30min"
     },
     {
       "disciplina": "Ensino Fundamental",
@@ -1501,8 +1821,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "30/04/2026",
-      "horario": "13h30min"
+      "data_pdf": "06/05/2026",
+      "horario": "14h30min"
     },
     {
       "disciplina": "Ensino Médio",
@@ -1519,8 +1839,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "30/04/2026",
-      "horario": "13h30min"
+      "data_pdf": "06/05/2026",
+      "horario": "14h30min"
     },
     {
       "disciplina": "Ensino Fundamental",
@@ -1537,8 +1857,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "30/04/2026",
-      "horario": "13h30min"
+      "data_pdf": "06/05/2026",
+      "horario": "14h30min"
     },
     {
       "disciplina": "Ensino Médio",
@@ -1555,8 +1875,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "30/04/2026",
-      "horario": "13h30min"
+      "data_pdf": "06/05/2026",
+      "horario": "14h30min"
     },
     {
       "disciplina": "MATEMÁTICA",
@@ -1573,7 +1893,7 @@
         "N": ""
       },
       "observacao": "",
-      "data_pdf": "30/04/2026",
+      "data_pdf": "05/05/2026",
       "horario": "13h30min"
     },
     {
@@ -2115,6 +2435,78 @@
       "observacao": "",
       "data_pdf": "24/03/2026",
       "horario": "13h30min"
+    },
+    {
+      "disciplina": "SAREH ATENDIMENTO ESPECIALIZADO",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "CECM Dr. MARCELINO NOGUEIRA",
+      "ensino_fundamental": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "",
+        "T": "3",
+        "N": ""
+      },
+      "observacao": "",
+      "data_pdf": "05/05/2026",
+      "horario": "13h30min"
+    },
+    {
+      "disciplina": "EDUCAÇÃO ESPECIAL",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "C.E. GREGÓRIO TEIXEIRA",
+      "ensino_fundamental": {
+        "M": "20",
+        "T": "",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "",
+      "data_pdf": "06/05/2026",
+      "horario": "14h30min"
+    },
+    {
+      "disciplina": "EDUCAÇÃO ESPECIAL",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "CECM Dr. MARCELINO NOGUEIRA",
+      "ensino_fundamental": {
+        "M": "",
+        "T": "25",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "",
+      "data_pdf": "05/05/2026",
+      "horario": "13h30min"
+    },
+    {
+      "disciplina": "EDUCAÇÃO ESPECIAL",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "C. E. SÃO FRANCISCO",
+      "ensino_fundamental": {
+        "M": "30",
+        "T": "",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "Integral",
+      "data_pdf": "06/05/2026",
+      "horario": "14h30min"
     },
     {
       "disciplina": "RECOMPOSIÇÃO MATEMÁTICA",
