@@ -1,6 +1,6 @@
 {
-  "total_pdfs": 15,
-  "total_registros": 56,
+  "total_pdfs": 16,
+  "total_registros": 58,
   "pdfs": [
     {
       "data": "13/02/2026",
@@ -1219,6 +1219,142 @@
       ]
     },
     {
+      "data": "07/05/2026",
+      "horario": "16h",
+      "arquivo": "pdfs\\cronogramadistribuicaodeaulastelboba_07_05_2026.pdfTB 07_05.pdf",
+      "total_registros": 8,
+      "distribuicao": [
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "CECM PRESIDENTE VARGAS",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "08",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "CECM PRESIDENTE VARGAS",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "16",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "4(2ª,3ª)",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "EDUCAÇÃO FÍSICA",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "CECM Dr. MARCELINO NOGUEIRA",
+          "ensino_fundamental": {
+            "M": "4",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "2",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        },
+        {
+          "disciplina": "EDUCAÇÃO FÍSICA",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "4",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "2",
+            "N": ""
+          },
+          "observacao": ""
+        }
+      ]
+    },
+    {
       "data": "24/04/2026",
       "horario": "15h30min",
       "arquivo": "pdfs\\cronogramadistribuicaodeaulastelboba_24_04_20266.pdfTBorba 24_04.pdf",
@@ -1785,8 +1921,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "06/05/2026",
-      "horario": "14h30min"
+      "data_pdf": "07/05/2026",
+      "horario": "16h"
     },
     {
       "disciplina": "Ensino Médio",
@@ -1803,8 +1939,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "06/05/2026",
-      "horario": "14h30min"
+      "data_pdf": "07/05/2026",
+      "horario": "16h"
     },
     {
       "disciplina": "Ensino Fundamental",
@@ -1821,8 +1957,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "06/05/2026",
-      "horario": "14h30min"
+      "data_pdf": "07/05/2026",
+      "horario": "16h"
     },
     {
       "disciplina": "Ensino Médio",
@@ -1839,8 +1975,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "06/05/2026",
-      "horario": "14h30min"
+      "data_pdf": "07/05/2026",
+      "horario": "16h"
     },
     {
       "disciplina": "Ensino Fundamental",
@@ -1857,8 +1993,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "06/05/2026",
-      "horario": "14h30min"
+      "data_pdf": "07/05/2026",
+      "horario": "16h"
     },
     {
       "disciplina": "Ensino Médio",
@@ -1875,8 +2011,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "06/05/2026",
-      "horario": "14h30min"
+      "data_pdf": "07/05/2026",
+      "horario": "16h"
     },
     {
       "disciplina": "MATEMÁTICA",
@@ -2507,6 +2643,42 @@
       "observacao": "Integral",
       "data_pdf": "06/05/2026",
       "horario": "14h30min"
+    },
+    {
+      "disciplina": "EDUCAÇÃO FÍSICA",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "CECM Dr. MARCELINO NOGUEIRA",
+      "ensino_fundamental": {
+        "M": "4",
+        "T": "",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "2",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "",
+      "data_pdf": "07/05/2026",
+      "horario": "16h"
+    },
+    {
+      "disciplina": "EDUCAÇÃO FÍSICA",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "C. E. WOLFF KLABIN",
+      "ensino_fundamental": {
+        "M": "",
+        "T": "4",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "",
+        "T": "2",
+        "N": ""
+      },
+      "observacao": "",
+      "data_pdf": "07/05/2026",
+      "horario": "16h"
     },
     {
       "disciplina": "RECOMPOSIÇÃO MATEMÁTICA",
