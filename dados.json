@@ -1,6 +1,6 @@
 {
-  "total_pdfs": 18,
-  "total_registros": 59,
+  "total_pdfs": 19,
+  "total_registros": 61,
   "pdfs": [
     {
       "data": "13/02/2026",
@@ -1611,6 +1611,174 @@
       ]
     },
     {
+      "data": "12/05/2026",
+      "horario": "13h30",
+      "arquivo": "pdfs\\cronogramadistribuicaodeaulastelboba_12_05_2026.pdftb 12_05.pdf",
+      "total_registros": 10,
+      "distribuicao": [
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "CECM PRESIDENTE VARGAS",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "08",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "CECM PRESIDENTE VARGAS",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "16",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "4(2ª,3ª)",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "FORMAÇÃO DE DOCENTES",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "TECNOLOGIA DA INFORMACAO E COM",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "3",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        },
+        {
+          "disciplina": "INGLÊS",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "CECM JARDIM ALEGRE",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "4",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        },
+        {
+          "disciplina": "EDUCAÇÃO DIGITAL E COMPUTAÇAO: PROGRAMAÇÃO E IA",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "E. E. NOSSA Srª. DE FÁTIMA",
+          "ensino_fundamental": {
+            "M": "4",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        },
+        {
+          "disciplina": "EDUCAÇÃO DIGITAL E COMPUTAÇAO: PROGRAMAÇÃO E IA",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "12",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "integral"
+        }
+      ]
+    },
+    {
       "data": "24/04/2026",
       "horario": "15h30min",
       "arquivo": "pdfs\\cronogramadistribuicaodeaulastelboba_24_04_20266.pdfTBorba 24_04.pdf",
@@ -2042,7 +2210,7 @@
       "escola": "E. E. NOSSA Srª. DE FÁTIMA",
       "ensino_fundamental": {
         "M": "4",
-        "T": "2",
+        "T": "",
         "N": ""
       },
       "ensino_medio": {
@@ -2051,8 +2219,8 @@
         "N": ""
       },
       "observacao": "",
-      "data_pdf": "13/02/2026",
-      "horario": "15h"
+      "data_pdf": "12/05/2026",
+      "horario": "13h30"
     },
     {
       "disciplina": "RECOMPOSIÇÃO LÍNGUA PORTUGUESA",
@@ -2177,8 +2345,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "08/05/2026",
-      "horario": "16h15min"
+      "data_pdf": "12/05/2026",
+      "horario": "13h30"
     },
     {
       "disciplina": "Ensino Médio",
@@ -2195,8 +2363,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "08/05/2026",
-      "horario": "16h15min"
+      "data_pdf": "12/05/2026",
+      "horario": "13h30"
     },
     {
       "disciplina": "Ensino Fundamental",
@@ -2213,8 +2381,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "08/05/2026",
-      "horario": "16h15min"
+      "data_pdf": "12/05/2026",
+      "horario": "13h30"
     },
     {
       "disciplina": "Ensino Médio",
@@ -2231,8 +2399,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "08/05/2026",
-      "horario": "16h15min"
+      "data_pdf": "12/05/2026",
+      "horario": "13h30"
     },
     {
       "disciplina": "Ensino Fundamental",
@@ -2249,8 +2417,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "08/05/2026",
-      "horario": "16h15min"
+      "data_pdf": "12/05/2026",
+      "horario": "13h30"
     },
     {
       "disciplina": "Ensino Médio",
@@ -2267,8 +2435,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "08/05/2026",
-      "horario": "16h15min"
+      "data_pdf": "12/05/2026",
+      "horario": "13h30"
     },
     {
       "disciplina": "EDUCAÇÃO FÍSICA",
@@ -2951,8 +3119,44 @@
         "N": ""
       },
       "observacao": "",
-      "data_pdf": "08/05/2026",
-      "horario": "16h15min"
+      "data_pdf": "12/05/2026",
+      "horario": "13h30"
+    },
+    {
+      "disciplina": "FORMAÇÃO DE DOCENTES",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "TECNOLOGIA DA INFORMACAO E COM",
+      "ensino_fundamental": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "3",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "",
+      "data_pdf": "12/05/2026",
+      "horario": "13h30"
+    },
+    {
+      "disciplina": "EDUCAÇÃO DIGITAL E COMPUTAÇAO: PROGRAMAÇÃO E IA",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "C. E. SÃO FRANCISCO",
+      "ensino_fundamental": {
+        "M": "12",
+        "T": "",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "integral",
+      "data_pdf": "12/05/2026",
+      "horario": "13h30"
     },
     {
       "disciplina": "RECOMPOSIÇÃO MATEMÁTICA",
