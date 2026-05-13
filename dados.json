@@ -1,6 +1,6 @@
 {
-  "total_pdfs": 19,
-  "total_registros": 61,
+  "total_pdfs": 21,
+  "total_registros": 65,
   "pdfs": [
     {
       "data": "13/02/2026",
@@ -819,6 +819,94 @@
       ]
     },
     {
+      "data": "13/05/2026",
+      "horario": "10h30min",
+      "arquivo": "pdfs\\cronogramadistribuicaodeaulasOrtigueira_13_05_2026.pdfort 13_05.pdf",
+      "total_registros": 5,
+      "distribuicao": [
+        {
+          "disciplina": "RECOMPOSIÇÃOMATEMÁTICA",
+          "municipio": "ORTIGUEIRA",
+          "escola": "00950 - MONJOLINHO, C E C-EF M",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "4* + 4",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "* Docência II"
+        },
+        {
+          "disciplina": "RECOMPOSIÇÃOMATEMÁTICA",
+          "municipio": "ORTIGUEIRA",
+          "escola": "00372 - PLINIO FRANCO F DA COSTA, C E C-EF M",
+          "ensino_fundamental": {
+            "M": "2",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "* Docência II"
+        },
+        {
+          "disciplina": "RECOMPOSIÇÃOMATEMÁTICA",
+          "municipio": "ORTIGUEIRA",
+          "escola": "00720 - VISTA ALEGRE, C E /CAMINHOS DO SABER",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "2",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        },
+        {
+          "disciplina": "EDUCAÇÃO ESPECIAL",
+          "municipio": "",
+          "escola": "01719 - CENTRO EST EDUC PROF FL AG DE ORTIGUEIRA",
+          "ensino_fundamental": {
+            "M": "20h subst..",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        },
+        {
+          "disciplina": "EQUIPE PEDAGÓGICA",
+          "municipio": "ORTIGUEIRA",
+          "escola": "00313 - ALTAIR MONGRUEL, C E-EF M",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "20h subst.",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        }
+      ]
+    },
+    {
       "data": "23/04/2026",
       "horario": "16h",
       "arquivo": "pdfs\\cronogramadistribuicaodeaulasOrtigueira_24_04_2026.pdfOrt. 24_04.pdf",
@@ -901,6 +989,30 @@
             "M": "",
             "T": "",
             "N": "4"
+          },
+          "observacao": "subst."
+        }
+      ]
+    },
+    {
+      "data": "13/05/2026",
+      "horario": "15h30min",
+      "arquivo": "pdfs\\cronogramadistribuicaodeaulasimbau_13_05_2026.pdfimbau 13_05.pdf",
+      "total_registros": 1,
+      "distribuicao": [
+        {
+          "disciplina": "MATEMÁTICA",
+          "municipio": "IMBAÚ",
+          "escola": "TEREZINHA L OLIVEIRA, C E-EF M",
+          "ensino_fundamental": {
+            "M": "2",
+            "T": "2",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
           },
           "observacao": "subst."
         }
@@ -2867,8 +2979,8 @@
         "N": ""
       },
       "observacao": "* Docência II",
-      "data_pdf": "23/04/2026",
-      "horario": "16h"
+      "data_pdf": "13/05/2026",
+      "horario": "10h30min"
     },
     {
       "disciplina": "RECOMPOSIÇÃOMATEMÁTICA",
@@ -2885,8 +2997,62 @@
         "N": ""
       },
       "observacao": "* Docência II",
-      "data_pdf": "23/04/2026",
-      "horario": "16h"
+      "data_pdf": "13/05/2026",
+      "horario": "10h30min"
+    },
+    {
+      "disciplina": "RECOMPOSIÇÃOMATEMÁTICA",
+      "municipio": "ORTIGUEIRA",
+      "escola": "00720 - VISTA ALEGRE, C E /CAMINHOS DO SABER",
+      "ensino_fundamental": {
+        "M": "",
+        "T": "2",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "",
+      "data_pdf": "13/05/2026",
+      "horario": "10h30min"
+    },
+    {
+      "disciplina": "EDUCAÇÃO ESPECIAL",
+      "municipio": "",
+      "escola": "01719 - CENTRO EST EDUC PROF FL AG DE ORTIGUEIRA",
+      "ensino_fundamental": {
+        "M": "20h subst..",
+        "T": "",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "",
+      "data_pdf": "13/05/2026",
+      "horario": "10h30min"
+    },
+    {
+      "disciplina": "EQUIPE PEDAGÓGICA",
+      "municipio": "ORTIGUEIRA",
+      "escola": "00313 - ALTAIR MONGRUEL, C E-EF M",
+      "ensino_fundamental": {
+        "M": "",
+        "T": "20h subst.",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "",
+      "data_pdf": "13/05/2026",
+      "horario": "10h30min"
     },
     {
       "disciplina": "RECOMPOSIÇÃOMATEMÁTICA",
@@ -2941,6 +3107,24 @@
       "observacao": "subst.",
       "data_pdf": "23/04/2026",
       "horario": "16h"
+    },
+    {
+      "disciplina": "MATEMÁTICA",
+      "municipio": "IMBAÚ",
+      "escola": "TEREZINHA L OLIVEIRA, C E-EF M",
+      "ensino_fundamental": {
+        "M": "2",
+        "T": "2",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "subst.",
+      "data_pdf": "13/05/2026",
+      "horario": "15h30min"
     },
     {
       "disciplina": "RECOMPOSIÇÃO MATEMÁTICA",
