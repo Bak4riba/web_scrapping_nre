@@ -1,6 +1,6 @@
 {
-  "total_pdfs": 25,
-  "total_registros": 68,
+  "total_pdfs": 27,
+  "total_registros": 71,
   "pdfs": [
     {
       "data": "13/02/2026",
@@ -391,6 +391,190 @@
             "N": ""
           },
           "observacao": "IA 2 PENS COMP, PENS LOG CID DIG"
+        }
+      ]
+    },
+    {
+      "data": "21/05/2026",
+      "horario": "9h",
+      "arquivo": "pdfs\\ccronogramadistribuicaodeaulastelboba_21_05_20266.pdfTB 21_05 Corrigido.pdf",
+      "total_registros": 11,
+      "distribuicao": [
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "CECM PRESIDENTE VARGAS",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "08",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "CECM PRESIDENTE VARGAS",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "14",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "4(2ª,3ª)",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "INGLÊS",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "CECM JARDIM ALEGRE",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "4",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        },
+        {
+          "disciplina": "CIÊNCIAS",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "CECM JARDIM ALEGRE",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "10",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        },
+        {
+          "disciplina": "BIOLOGIA",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "CECM JARDIM ALEGRE",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "2",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "Biol II"
+        },
+        {
+          "disciplina": "EDUCAÇÃO ESPECIAL",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "CECM PROFª MARIA AP. MILITÃO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "25",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        },
+        {
+          "disciplina": "EDUCAÇÃO ESPECIAL",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "CECM SÃO PEDRO",
+          "ensino_fundamental": {
+            "M": "25",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
         }
       ]
     },
@@ -2419,6 +2603,174 @@
       ]
     },
     {
+      "data": "22/05/2026",
+      "horario": "9h30min",
+      "arquivo": "pdfs\\cronogramadistribuicaodeaulastelboba_22_05_2026.pdfTB 22_05.pdf",
+      "total_registros": 10,
+      "distribuicao": [
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "CECM PRESIDENTE VARGAS",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "08",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "CECM PRESIDENTE VARGAS",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "14",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "4(2ª,3ª)",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "CIÊNCIAS",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "CECM JARDIM ALEGRE",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "10",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        },
+        {
+          "disciplina": "BIOLOGIA",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "CECM JARDIM ALEGRE",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "2",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "Biol II"
+        },
+        {
+          "disciplina": "EDUCAÇÃO ESPECIAL",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "CECM PROFª MARIA AP. MILITÃO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "25",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        },
+        {
+          "disciplina": "EDUCAÇÃO ESPECIAL",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "CECM SÃO PEDRO",
+          "ensino_fundamental": {
+            "M": "25",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        }
+      ]
+    },
+    {
       "data": "24/04/2026",
       "horario": "15h30min",
       "arquivo": "pdfs\\cronogramadistribuicaodeaulastelboba_24_04_20266.pdfTBorba 24_04.pdf",
@@ -2985,8 +3337,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "19/05/2026",
-      "horario": "11h"
+      "data_pdf": "22/05/2026",
+      "horario": "9h30min"
     },
     {
       "disciplina": "Ensino Médio",
@@ -3003,8 +3355,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "19/05/2026",
-      "horario": "11h"
+      "data_pdf": "22/05/2026",
+      "horario": "9h30min"
     },
     {
       "disciplina": "Ensino Fundamental",
@@ -3021,8 +3373,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "19/05/2026",
-      "horario": "11h"
+      "data_pdf": "22/05/2026",
+      "horario": "9h30min"
     },
     {
       "disciplina": "Ensino Médio",
@@ -3039,8 +3391,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "19/05/2026",
-      "horario": "11h"
+      "data_pdf": "22/05/2026",
+      "horario": "9h30min"
     },
     {
       "disciplina": "Ensino Fundamental",
@@ -3057,8 +3409,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "19/05/2026",
-      "horario": "11h"
+      "data_pdf": "22/05/2026",
+      "horario": "9h30min"
     },
     {
       "disciplina": "Ensino Médio",
@@ -3075,8 +3427,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "19/05/2026",
-      "horario": "11h"
+      "data_pdf": "22/05/2026",
+      "horario": "9h30min"
     },
     {
       "disciplina": "EDUCAÇÃO FÍSICA",
@@ -3129,8 +3481,8 @@
         "N": ""
       },
       "observacao": "",
-      "data_pdf": "14/05/2026",
-      "horario": "13h30"
+      "data_pdf": "21/05/2026",
+      "horario": "9h"
     },
     {
       "disciplina": "EDUCAÇÃO DIGITAL E COMPUTAÇAO: PROGRAMAÇÃO E IA",
@@ -3149,6 +3501,78 @@
       "observacao": "IA 2 PENS COMP, PENS LOG CID DIG",
       "data_pdf": "14/05/2026",
       "horario": "13h30"
+    },
+    {
+      "disciplina": "CIÊNCIAS",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "CECM JARDIM ALEGRE",
+      "ensino_fundamental": {
+        "M": "",
+        "T": "10",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "",
+      "data_pdf": "22/05/2026",
+      "horario": "9h30min"
+    },
+    {
+      "disciplina": "BIOLOGIA",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "CECM JARDIM ALEGRE",
+      "ensino_fundamental": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "2",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "Biol II",
+      "data_pdf": "22/05/2026",
+      "horario": "9h30min"
+    },
+    {
+      "disciplina": "EDUCAÇÃO ESPECIAL",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "CECM PROFª MARIA AP. MILITÃO",
+      "ensino_fundamental": {
+        "M": "",
+        "T": "25",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "",
+      "data_pdf": "22/05/2026",
+      "horario": "9h30min"
+    },
+    {
+      "disciplina": "EDUCAÇÃO ESPECIAL",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "CECM SÃO PEDRO",
+      "ensino_fundamental": {
+        "M": "25",
+        "T": "",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "",
+      "data_pdf": "22/05/2026",
+      "horario": "9h30min"
     },
     {
       "disciplina": "MATEMÁTICA",
@@ -3743,24 +4167,6 @@
       "observacao": "",
       "data_pdf": "06/04/2026",
       "horario": "9h"
-    },
-    {
-      "disciplina": "EDUCAÇÃO ESPECIAL",
-      "municipio": "TELÊMACO BORBA",
-      "escola": "CECM SÃO PEDRO",
-      "ensino_fundamental": {
-        "M": "",
-        "T": "50",
-        "N": ""
-      },
-      "ensino_medio": {
-        "M": "",
-        "T": "",
-        "N": ""
-      },
-      "observacao": "",
-      "data_pdf": "24/03/2026",
-      "horario": "13h30min"
     },
     {
       "disciplina": "EDUCAÇÃO ESPECIAL",
