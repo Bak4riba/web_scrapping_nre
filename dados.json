@@ -1,5 +1,5 @@
 {
-  "total_pdfs": 27,
+  "total_pdfs": 28,
   "total_registros": 71,
   "pdfs": [
     {
@@ -1311,6 +1311,78 @@
             "N": "4"
           },
           "observacao": "subst."
+        }
+      ]
+    },
+    {
+      "data": "25/05/2026",
+      "horario": "9h",
+      "arquivo": "pdfs\\cronogramadistribuicaodeaulasOrtigueira_25_05_2026.pdfTB 25_05.pdf",
+      "total_registros": 4,
+      "distribuicao": [
+        {
+          "disciplina": "RECOMPOSIÇÃOMATEMÁTICA",
+          "municipio": "ORTIGUEIRA",
+          "escola": "00950 - MONJOLINHO, C E C-EF M",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "4* + 4",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "* Docência II"
+        },
+        {
+          "disciplina": "RECOMPOSIÇÃOMATEMÁTICA",
+          "municipio": "ORTIGUEIRA",
+          "escola": "00372 - PLINIO FRANCO F DA COSTA, C E C-EF M",
+          "ensino_fundamental": {
+            "M": "2",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "* Docência II"
+        },
+        {
+          "disciplina": "RECOMPOSIÇÃOMATEMÁTICA",
+          "municipio": "ORTIGUEIRA",
+          "escola": "00720 - VISTA ALEGRE, C E /CAMINHOS DO SABER",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "2",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        },
+        {
+          "disciplina": "EDUCAÇÃO ESPECIAL",
+          "municipio": "",
+          "escola": "01719 - CENTRO EST EDUC PROF FL AG DE ORTIGUEIRA",
+          "ensino_fundamental": {
+            "M": "20h subst..",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
         }
       ]
     },
@@ -3967,8 +4039,8 @@
         "N": ""
       },
       "observacao": "* Docência II",
-      "data_pdf": "13/05/2026",
-      "horario": "10h30min"
+      "data_pdf": "25/05/2026",
+      "horario": "9h"
     },
     {
       "disciplina": "RECOMPOSIÇÃOMATEMÁTICA",
@@ -3985,8 +4057,8 @@
         "N": ""
       },
       "observacao": "* Docência II",
-      "data_pdf": "13/05/2026",
-      "horario": "10h30min"
+      "data_pdf": "25/05/2026",
+      "horario": "9h"
     },
     {
       "disciplina": "RECOMPOSIÇÃOMATEMÁTICA",
@@ -4003,8 +4075,8 @@
         "N": ""
       },
       "observacao": "",
-      "data_pdf": "13/05/2026",
-      "horario": "10h30min"
+      "data_pdf": "25/05/2026",
+      "horario": "9h"
     },
     {
       "disciplina": "EDUCAÇÃO ESPECIAL",
@@ -4021,8 +4093,8 @@
         "N": ""
       },
       "observacao": "",
-      "data_pdf": "13/05/2026",
-      "horario": "10h30min"
+      "data_pdf": "25/05/2026",
+      "horario": "9h"
     },
     {
       "disciplina": "EQUIPE PEDAGÓGICA",
