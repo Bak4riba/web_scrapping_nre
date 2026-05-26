@@ -1,6 +1,6 @@
 {
-  "total_pdfs": 28,
-  "total_registros": 71,
+  "total_pdfs": 29,
+  "total_registros": 76,
   "pdfs": [
     {
       "data": "13/02/2026",
@@ -2931,6 +2931,222 @@
       ]
     },
     {
+      "data": "26/05/2026",
+      "horario": "13h30min",
+      "arquivo": "pdfs\\cronogramadistribuicaodeaulastelboba_26_05_2026.pdfTB 26_05.pdf",
+      "total_registros": 13,
+      "distribuicao": [
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "CECM PRESIDENTE VARGAS",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "08",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "CECM PRESIDENTE VARGAS",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "14",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "4(2ª,3ª)",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "PEDAGOGO",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "E. E. BOM JESUS",
+          "ensino_fundamental": {
+            "M": "20",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "subst."
+        },
+        {
+          "disciplina": "CIÊNCIAS",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "E. E. BELA VISTA",
+          "ensino_fundamental": {
+            "M": "10",
+            "T": "7",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "subst."
+        },
+        {
+          "disciplina": "BIOLOGIA",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "E. E. BELA VISTA",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        },
+        {
+          "disciplina": "CIÊNCIAS",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "CECM PROFª MARIA AP. MILITÃO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        },
+        {
+          "disciplina": "BIOLOGIA",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "CECM PROFª MARIA AP. MILITÃO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "8",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        },
+        {
+          "disciplina": "CIÊNCIAS",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "CECM JARDIM ALEGRE",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "4",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        },
+        {
+          "disciplina": "BIOLOGIA",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "CECM JARDIM ALEGRE",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        }
+      ]
+    },
+    {
       "data": "27/04/2026",
       "horario": "9h",
       "arquivo": "pdfs\\cronogramadistribuicaodeaulastelboba_27_04_20266.pdfTel B 27_04.pdf",
@@ -3409,8 +3625,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "22/05/2026",
-      "horario": "9h30min"
+      "data_pdf": "26/05/2026",
+      "horario": "13h30min"
     },
     {
       "disciplina": "Ensino Médio",
@@ -3427,8 +3643,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "22/05/2026",
-      "horario": "9h30min"
+      "data_pdf": "26/05/2026",
+      "horario": "13h30min"
     },
     {
       "disciplina": "Ensino Fundamental",
@@ -3445,8 +3661,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "22/05/2026",
-      "horario": "9h30min"
+      "data_pdf": "26/05/2026",
+      "horario": "13h30min"
     },
     {
       "disciplina": "Ensino Médio",
@@ -3463,8 +3679,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "22/05/2026",
-      "horario": "9h30min"
+      "data_pdf": "26/05/2026",
+      "horario": "13h30min"
     },
     {
       "disciplina": "Ensino Fundamental",
@@ -3481,8 +3697,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "22/05/2026",
-      "horario": "9h30min"
+      "data_pdf": "26/05/2026",
+      "horario": "13h30min"
     },
     {
       "disciplina": "Ensino Médio",
@@ -3499,8 +3715,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "22/05/2026",
-      "horario": "9h30min"
+      "data_pdf": "26/05/2026",
+      "horario": "13h30min"
     },
     {
       "disciplina": "EDUCAÇÃO FÍSICA",
@@ -3580,7 +3796,7 @@
       "escola": "CECM JARDIM ALEGRE",
       "ensino_fundamental": {
         "M": "",
-        "T": "10",
+        "T": "4",
         "N": ""
       },
       "ensino_medio": {
@@ -3589,8 +3805,8 @@
         "N": ""
       },
       "observacao": "",
-      "data_pdf": "22/05/2026",
-      "horario": "9h30min"
+      "data_pdf": "26/05/2026",
+      "horario": "13h30min"
     },
     {
       "disciplina": "BIOLOGIA",
@@ -3602,13 +3818,13 @@
         "N": ""
       },
       "ensino_medio": {
-        "M": "2",
+        "M": "",
         "T": "",
         "N": ""
       },
-      "observacao": "Biol II",
-      "data_pdf": "22/05/2026",
-      "horario": "9h30min"
+      "observacao": "",
+      "data_pdf": "26/05/2026",
+      "horario": "13h30min"
     },
     {
       "disciplina": "EDUCAÇÃO ESPECIAL",
@@ -4473,6 +4689,96 @@
       "observacao": "",
       "data_pdf": "24/04/2026",
       "horario": "15h30min"
+    },
+    {
+      "disciplina": "PEDAGOGO",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "E. E. BOM JESUS",
+      "ensino_fundamental": {
+        "M": "20",
+        "T": "",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "subst.",
+      "data_pdf": "26/05/2026",
+      "horario": "13h30min"
+    },
+    {
+      "disciplina": "CIÊNCIAS",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "E. E. BELA VISTA",
+      "ensino_fundamental": {
+        "M": "10",
+        "T": "7",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "subst.",
+      "data_pdf": "26/05/2026",
+      "horario": "13h30min"
+    },
+    {
+      "disciplina": "BIOLOGIA",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "E. E. BELA VISTA",
+      "ensino_fundamental": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "",
+      "data_pdf": "26/05/2026",
+      "horario": "13h30min"
+    },
+    {
+      "disciplina": "CIÊNCIAS",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "CECM PROFª MARIA AP. MILITÃO",
+      "ensino_fundamental": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "",
+      "data_pdf": "26/05/2026",
+      "horario": "13h30min"
+    },
+    {
+      "disciplina": "BIOLOGIA",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "CECM PROFª MARIA AP. MILITÃO",
+      "ensino_fundamental": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "8",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "",
+      "data_pdf": "26/05/2026",
+      "horario": "13h30min"
     },
     {
       "disciplina": "FARMÁCIA",
