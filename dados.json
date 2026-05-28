@@ -1,6 +1,6 @@
 {
-  "total_pdfs": 29,
-  "total_registros": 76,
+  "total_pdfs": 30,
+  "total_registros": 78,
   "pdfs": [
     {
       "data": "13/02/2026",
@@ -566,6 +566,142 @@
           "escola": "CECM SÃO PEDRO",
           "ensino_fundamental": {
             "M": "25",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        }
+      ]
+    },
+    {
+      "data": "28/05/2026",
+      "horario": "9h",
+      "arquivo": "pdfs\\ccronogramadistribuicaodeaulastelboba_28_05_20266.pdfTEL B 28_05.pdf",
+      "total_registros": 8,
+      "distribuicao": [
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "CECM PRESIDENTE VARGAS",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "08",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "CECM PRESIDENTE VARGAS",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "14",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "4(2ª,3ª)",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "CIÊNCIAS",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "17",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "subst."
+        },
+        {
+          "disciplina": "BIOLOGIA",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
             "T": "",
             "N": ""
           },
@@ -3625,8 +3761,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "26/05/2026",
-      "horario": "13h30min"
+      "data_pdf": "28/05/2026",
+      "horario": "9h"
     },
     {
       "disciplina": "Ensino Médio",
@@ -3643,8 +3779,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "26/05/2026",
-      "horario": "13h30min"
+      "data_pdf": "28/05/2026",
+      "horario": "9h"
     },
     {
       "disciplina": "Ensino Fundamental",
@@ -3661,8 +3797,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "26/05/2026",
-      "horario": "13h30min"
+      "data_pdf": "28/05/2026",
+      "horario": "9h"
     },
     {
       "disciplina": "Ensino Médio",
@@ -3679,8 +3815,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "26/05/2026",
-      "horario": "13h30min"
+      "data_pdf": "28/05/2026",
+      "horario": "9h"
     },
     {
       "disciplina": "Ensino Fundamental",
@@ -3697,8 +3833,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "26/05/2026",
-      "horario": "13h30min"
+      "data_pdf": "28/05/2026",
+      "horario": "9h"
     },
     {
       "disciplina": "Ensino Médio",
@@ -3715,8 +3851,8 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "26/05/2026",
-      "horario": "13h30min"
+      "data_pdf": "28/05/2026",
+      "horario": "9h"
     },
     {
       "disciplina": "EDUCAÇÃO FÍSICA",
@@ -3861,6 +3997,42 @@
       "observacao": "",
       "data_pdf": "22/05/2026",
       "horario": "9h30min"
+    },
+    {
+      "disciplina": "CIÊNCIAS",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "C. E. WOLFF KLABIN",
+      "ensino_fundamental": {
+        "M": "",
+        "T": "17",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "subst.",
+      "data_pdf": "28/05/2026",
+      "horario": "9h"
+    },
+    {
+      "disciplina": "BIOLOGIA",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "C. E. WOLFF KLABIN",
+      "ensino_fundamental": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "",
+      "data_pdf": "28/05/2026",
+      "horario": "9h"
     },
     {
       "disciplina": "MATEMÁTICA",
