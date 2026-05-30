@@ -1,6 +1,6 @@
 {
-  "total_pdfs": 30,
-  "total_registros": 78,
+  "total_pdfs": 32,
+  "total_registros": 79,
   "pdfs": [
     {
       "data": "13/02/2026",
@@ -110,6 +110,158 @@
           "escola": "C. E. DR. LUIZ VIEIRA",
           "ensino_fundamental": {
             "M": "20",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        }
+      ]
+    },
+    {
+      "data": "01/06/2026",
+      "horario": "9h",
+      "arquivo": "pdfs\\cccronogramadistribuicaodeaulastelboba_01_06_20266.pdfT Borb 01_06.pdf",
+      "total_registros": 9,
+      "distribuicao": [
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "CECM PRESIDENTE VARGAS",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "08",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "CECM PRESIDENTE VARGAS",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "14",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "4(2ª,3ª)",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "PAEE",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "E. E. Pe. JOSÉ DE ANCHIETA",
+          "ensino_fundamental": {
+            "M": "20",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        },
+        {
+          "disciplina": "LÍNGUA PORTUGUESA",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "3",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "17",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "subst."
+        },
+        {
+          "disciplina": "REDAÇÃO E LEITURA",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
             "T": "",
             "N": ""
           },
@@ -582,6 +734,142 @@
       "data": "28/05/2026",
       "horario": "9h",
       "arquivo": "pdfs\\ccronogramadistribuicaodeaulastelboba_28_05_20266.pdfTEL B 28_05.pdf",
+      "total_registros": 8,
+      "distribuicao": [
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "CECM PRESIDENTE VARGAS",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "08",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "CECM PRESIDENTE VARGAS",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "14",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "4(2ª,3ª)",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "CIÊNCIAS",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "17",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "subst."
+        },
+        {
+          "disciplina": "BIOLOGIA",
+          "municipio": "TELÊMACO BORBA",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        }
+      ]
+    },
+    {
+      "data": "29/05/2026",
+      "horario": "11h",
+      "arquivo": "pdfs\\ccronogramadistribuicaodeaulastelboba_29_05_2026.pdfTB 29_05.pdf",
       "total_registros": 8,
       "distribuicao": [
         {
@@ -3761,7 +4049,7 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "28/05/2026",
+      "data_pdf": "01/06/2026",
       "horario": "9h"
     },
     {
@@ -3779,7 +4067,7 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "28/05/2026",
+      "data_pdf": "01/06/2026",
       "horario": "9h"
     },
     {
@@ -3797,7 +4085,7 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "28/05/2026",
+      "data_pdf": "01/06/2026",
       "horario": "9h"
     },
     {
@@ -3815,7 +4103,7 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "28/05/2026",
+      "data_pdf": "01/06/2026",
       "horario": "9h"
     },
     {
@@ -3833,7 +4121,7 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "28/05/2026",
+      "data_pdf": "01/06/2026",
       "horario": "9h"
     },
     {
@@ -3851,7 +4139,61 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "28/05/2026",
+      "data_pdf": "01/06/2026",
+      "horario": "9h"
+    },
+    {
+      "disciplina": "PAEE",
+      "municipio": "ESTABELECIMENTO",
+      "escola": "E. E. Pe. JOSÉ DE ANCHIETA",
+      "ensino_fundamental": {
+        "M": "20",
+        "T": "",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "",
+      "data_pdf": "01/06/2026",
+      "horario": "9h"
+    },
+    {
+      "disciplina": "LÍNGUA PORTUGUESA",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "C. E. WOLFF KLABIN",
+      "ensino_fundamental": {
+        "M": "",
+        "T": "3",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "17",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "subst.",
+      "data_pdf": "01/06/2026",
+      "horario": "9h"
+    },
+    {
+      "disciplina": "REDAÇÃO E LEITURA",
+      "municipio": "TELÊMACO BORBA",
+      "escola": "C. E. WOLFF KLABIN",
+      "ensino_fundamental": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "ensino_medio": {
+        "M": "",
+        "T": "",
+        "N": ""
+      },
+      "observacao": "",
+      "data_pdf": "01/06/2026",
       "horario": "9h"
     },
     {
@@ -4013,8 +4355,8 @@
         "N": ""
       },
       "observacao": "subst.",
-      "data_pdf": "28/05/2026",
-      "horario": "9h"
+      "data_pdf": "29/05/2026",
+      "horario": "11h"
     },
     {
       "disciplina": "BIOLOGIA",
@@ -4031,8 +4373,8 @@
         "N": ""
       },
       "observacao": "",
-      "data_pdf": "28/05/2026",
-      "horario": "9h"
+      "data_pdf": "29/05/2026",
+      "horario": "11h"
     },
     {
       "disciplina": "MATEMÁTICA",
@@ -4749,42 +5091,6 @@
         "M": "",
         "T": "",
         "N": "4"
-      },
-      "observacao": "",
-      "data_pdf": "19/05/2026",
-      "horario": "11h"
-    },
-    {
-      "disciplina": "LÍNGUA PORTUGUESA",
-      "municipio": "TELÊMACO BORBA",
-      "escola": "C. E. WOLFF KLABIN",
-      "ensino_fundamental": {
-        "M": "",
-        "T": "3",
-        "N": ""
-      },
-      "ensino_medio": {
-        "M": "",
-        "T": "13+4 int. subst.",
-        "N": ""
-      },
-      "observacao": "subst.",
-      "data_pdf": "19/05/2026",
-      "horario": "11h"
-    },
-    {
-      "disciplina": "REDAÇÃO E LEITURA",
-      "municipio": "TELÊMACO BORBA",
-      "escola": "C. E. WOLFF KLABIN",
-      "ensino_fundamental": {
-        "M": "",
-        "T": "",
-        "N": ""
-      },
-      "ensino_medio": {
-        "M": "",
-        "T": "",
-        "N": ""
       },
       "observacao": "",
       "data_pdf": "19/05/2026",
