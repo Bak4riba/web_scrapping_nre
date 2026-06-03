@@ -1,5 +1,5 @@
 {
-  "total_pdfs": 32,
+  "total_pdfs": 33,
   "total_registros": 79,
   "pdfs": [
     {
@@ -1951,6 +1951,126 @@
           "ensino_fundamental": {
             "M": "",
             "T": "20",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": ""
+        }
+      ]
+    },
+    {
+      "data": "03/06/2026",
+      "horario": "9h",
+      "arquivo": "pdfs\\cronogramadistribuicaodeaulastelboba_03_06_2026.pdfTB PAEE03_06.pdf",
+      "total_registros": 7,
+      "distribuicao": [
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "CECM PRESIDENTE VARGAS",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "08",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "CECM PRESIDENTE VARGAS",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "14",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. WOLFF KLABIN",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Fundamental",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "4(2ª,3ª)",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "Ensino Médio",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "C. E. SÃO FRANCISCO",
+          "ensino_fundamental": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "ensino_medio": {
+            "M": "",
+            "T": "",
+            "N": ""
+          },
+          "observacao": "*Docência II"
+        },
+        {
+          "disciplina": "PAEE",
+          "municipio": "ESTABELECIMENTO",
+          "escola": "E. E. Pe. JOSÉ DE ANCHIETA",
+          "ensino_fundamental": {
+            "M": "20",
+            "T": "",
             "N": ""
           },
           "ensino_medio": {
@@ -4049,7 +4169,7 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "01/06/2026",
+      "data_pdf": "03/06/2026",
       "horario": "9h"
     },
     {
@@ -4067,7 +4187,7 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "01/06/2026",
+      "data_pdf": "03/06/2026",
       "horario": "9h"
     },
     {
@@ -4085,7 +4205,7 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "01/06/2026",
+      "data_pdf": "03/06/2026",
       "horario": "9h"
     },
     {
@@ -4103,7 +4223,7 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "01/06/2026",
+      "data_pdf": "03/06/2026",
       "horario": "9h"
     },
     {
@@ -4121,7 +4241,7 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "01/06/2026",
+      "data_pdf": "03/06/2026",
       "horario": "9h"
     },
     {
@@ -4139,7 +4259,7 @@
         "N": ""
       },
       "observacao": "*Docência II",
-      "data_pdf": "01/06/2026",
+      "data_pdf": "03/06/2026",
       "horario": "9h"
     },
     {
@@ -4157,7 +4277,7 @@
         "N": ""
       },
       "observacao": "",
-      "data_pdf": "01/06/2026",
+      "data_pdf": "03/06/2026",
       "horario": "9h"
     },
     {
